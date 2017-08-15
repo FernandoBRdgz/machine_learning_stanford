@@ -12,13 +12,11 @@
 
 * The probability of it correctly predicting a future date's weather.
 
-**2. Suppose you are working on weather prediction, and you would like to predict whether or not it will be raining at 5pm tomorrow. You want to use a learning algorithm for this.**
-**Would you treat this as a classification or a regression problem?**
+**2. Suppose you are working on weather prediction, and you would like to predict whether or not it will be raining at 5pm tomorrow. You want to use a learning algorithm for this. Would you treat this as a classification or a regression problem?**
 
 * Classification
 
-**2. (Alternative Q.) The amount of rain that falls in a day is usually measured in either millimeters (mm) or inches. Suppose you use a learning algorithm to predict how much rain will fall tomorrow.**
-**Would you treat this as a classification or a regression problem? **
+**2. (Alternative Q.) The amount of rain that falls in a day is usually measured in either millimeters (mm) or inches. Suppose you use a learning algorithm to predict how much rain will fall tomorrow. Would you treat this as a classification or a regression problem?**
 
 * Regression
 
@@ -26,8 +24,7 @@
 
 * Classification
 
-**3. (Alternative Q.) Suppose you are working on stock market prediction, and you would like to predict the price of a particular stock tomorrow (measured in dollars). You want to use a learning algorithm for this.**
-**Would you treat this as a classification or a regression problem?**
+**3. (Alternative Q.) Suppose you are working on stock market prediction, and you would like to predict the price of a particular stock tomorrow (measured in dollars). You want to use a learning algorithm for this. Would you treat this as a classification or a regression problem?**
 
 * Regression
 
