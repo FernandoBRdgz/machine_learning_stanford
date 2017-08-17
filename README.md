@@ -1,6 +1,6 @@
 # Machine Learning Coursera
 
-## Author: Fernando Barranco Rodríguez
+## Author: Fernando Barranco RodrÃ­guez
 
 ### Stanford University - Machine Learning
 
@@ -8,26 +8,26 @@
 
 **Program:**
 
-* Week 1: (coming soon)
+* Week 1
 
-* Week 2: (coming soon)
+* Week 2 (coming soon)
 
-* Week 3: (coming soon)
+* Week 3 (coming soon)
 
-* Week 4: (coming soon)
+* Week 4 (coming soon)
 
-* Week 5: (coming soon)
+* Week 5 (coming soon)
 
-* Week 6: (coming soon)
+* Week 6 (coming soon)
 
-* Week 7: (coming soon)
+* Week 7 (coming soon)
 
-* Week 8: (coming soon)
+* Week 8 (coming soon)
 
-* Week 9: (coming soon)
+* Week 9 (coming soon)
 
-* Week 10: (coming soon)
+* Week 10 (coming soon)
 
-* Week 11: (coming soon)
+* Week 11 (coming soon)
 
 
