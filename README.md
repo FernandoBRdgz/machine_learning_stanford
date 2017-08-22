@@ -10,9 +10,9 @@
 
 * Week 1
 
-* Week 2 (coming soon)
+* Week 2
 
-* Week 3 (coming soon)
+* Week 3
 
 * Week 4 (coming soon)
 
