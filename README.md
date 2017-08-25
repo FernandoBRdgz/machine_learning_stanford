@@ -1,4 +1,4 @@
-# Machine Learning Coursera
+﻿# Machine Learning Coursera
 
 ## Author: Fernando Barranco Rodríguez
 
@@ -14,7 +14,7 @@
 
 * Week 3
 
-* Week 4 (coming soon)
+* Week 4
 
 * Week 5 (coming soon)
 
