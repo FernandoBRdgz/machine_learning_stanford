@@ -14,7 +14,7 @@
 
 * reshape(thetaVec(16:39), 4, 6)
 
-**3. Let J(θ) = 3θ^3+2. Let θ=1, and ϵ=0.01. Use the formula [J(θ+ϵ)−J(θ−ϵ)]/2ϵ to numerically compute an approximation to the derivative at θ=1. What value do you get? (When θ=1, the true/exact derivative is dJ(θ)/dθ = 9.)
+**3. Let J(θ) = 3θ^3+2. Let θ=1, and ϵ=0.01. Use the formula [J(θ+ϵ)−J(θ−ϵ)]/2ϵ to numerically compute an approximation to the derivative at θ=1. What value do you get? (When θ=1, the true/exact derivative is dJ(θ)/dθ = 9.)**
 
 * 9.0003
 
