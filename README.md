@@ -20,7 +20,7 @@
 
 * Week 6
 
-* Week 7 (coming soon)
+* Week 7
 
 * Week 8 (coming soon)
 
