@@ -12,6 +12,10 @@
 
 * Given a dataset of credit card transactions, identify unusual transactions to flag them as possibly fraudulent.
 
+* From a large set of primary care patient records, identify individuals who might have unusual health conditions.
+
+* In a computer chip fabrication plant, identify microchips that might be defective.
+
 **2. Suppose you have trained an anomaly detection system for fraud detection, and your system that flags anomalies when p(x) is less than ε, and you find on the cross-validation set that it is missing many fradulent transactions (i.e., failing to flag them as anomalies). What should you do?**
 
 * Increase ε
@@ -25,6 +29,10 @@
 * When choosing features for an anomaly detection system, it is a good idea to look for features that take on unusually large or small values for (mainly the) anomalous examples.
 
 * If you do not have any labeled data (or if all your data has label y=0), then is is still possible to learn p(x), but it may be harder to evaluate the system or choose a good value of ϵ.
+
+* In anomaly detection, we fit a model p(x) to a set of negative (y=0) examples, without using any positive examples we may have collected of previously observed anomalies.
+
+* When developing an anomaly detection system, it is often useful to select an appropriate numerical performance metric to evaluate the effectiveness of the learning algorithm.
 
 **5. You have a 1-D dataset {x(1),…,x(m)} and you want to detect outliers in the dataset. You first plot the dataset and it looks like this:**
 
