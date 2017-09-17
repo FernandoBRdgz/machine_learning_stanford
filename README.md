@@ -24,10 +24,10 @@
 
 * Week 8
 
-* Week 9 (coming soon)
+* Week 9
 
-* Week 10 (coming soon)
+* Week 10
 
-* Week 11 (coming soon)
+* Week 11
 
 
