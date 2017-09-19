@@ -4,6 +4,8 @@
 
 ### Stanford University - Machine Learning
 
+![Stanford](Certificate/stanford.png)
+
 [Machine Learning Stanford University - Coursera](https://www.coursera.org/learn/machine-learning)
 
 **Program:**
